@@ -12,14 +12,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```typescript
 const Daniel = {
-    code: ["Javascript", "Typescript", "Python", "Rust", "QML"],
+    code: ["Javascript", "Typescript", "Python", "Rust", "QML", "C++"],
     askMeAbout: ["web dev", "software dev"],
     technologies: {
         mobileApp: ["Flutter"],
         frontEnd: {
-            js: ["Vue", "Nuxt","React","NextJS"],
+            js: ["Vue", "Nuxt", "React", "NextJS"],
             css: ["vuetify", "bootstrap"]
         },
         backEnd: {
@@ -31,6 +31,24 @@ const Daniel = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "Developing custom software for each client",
+} as {
+    code: string[];
+    askMeAbout: string[];
+    technologies: {
+        mobileApp: string[];
+        frontEnd: {
+            js: string[];
+            css: string[];
+        };
+        backEnd: {
+            js: string[];
+            python: string[];
+        };
+        databases: string[];
+        misc: string[];
+    };
+    architecture: string[];
+    currentProject: string;
 };
 ```
 
