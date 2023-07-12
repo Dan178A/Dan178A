@@ -29,7 +29,7 @@ const Daniel = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["SSR", "Progressive web applications", "Single page applications"],
     currentProject: "Developing custom software for each client",
 } as {
     code: string[];
