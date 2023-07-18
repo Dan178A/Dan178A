@@ -6,7 +6,7 @@
 <p><em>Software and Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/DanASr9?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-82435817b/)](https://www.linkedin.com/in/daniel-silva-82435817b/)
 ![GitHub followers](https://img.shields.io/github/followers/Dan178A?label=Follow&style=social)
 
