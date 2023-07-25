@@ -37,12 +37,10 @@ const Daniel = {
     technologies: {
         mobileApp: string[];
         frontEnd: {
-            js: string[];
-            css: string[];
+            [x:string]: string[];
         };
         backEnd: {
-            js: string[];
-            python: string[];
+            [x:string]: string[];
         };
         databases: string[];
         misc: string[];
