@@ -15,7 +15,7 @@
 ```typescript
 const Daniel = {
     code: ["Javascript", "Typescript", "Python", "Rust", "QML", "C++"],
-    askMeAbout: ["web dev", "software dev"],
+    askMeAbout: ["Web Dev", "Software Dev"],
     technologies: {
         mobileApp: ["Flutter"],
         frontEnd: {
@@ -24,9 +24,9 @@ const Daniel = {
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
-            python: ["Pyqt"]
+            python: ["Pyqt","Django","flask"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql", "sqlite","IndexedDB"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
     architecture: ["SSR", "Progressive web applications", "Single page applications"],
