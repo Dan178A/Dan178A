@@ -7,7 +7,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/DanASr9?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-82435817b/)](https://www.linkedin.com/in/daniel-silva-82435817b/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silva-82435817b/)](https://www.linkedin.com/in/daniel-alejandro-silva-rojas/)
 ![GitHub followers](https://img.shields.io/github/followers/Dan178A?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
