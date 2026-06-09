@@ -1,55 +1,37 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Dan178A
-</strong>
-</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm Daniel Silva (Dan178A)</strong></h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software and Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/DanASr9?label=Follow)
+<p><em>Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Dan178A?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+Apasionado por el desarrollo de sistemas críticos, la optimización algorítmica y las arquitecturas de alta concurrencia. Me enfoco en construir software eficiente, escalable y con bases matemáticas sólidas.
+
 ```typescript
 const Daniel = {
-    code: ["Javascript", "Typescript", "Python", "Rust", "QML", "C++"],
-    askMeAbout: ["Web Dev", "Software Dev"],
+    degree: "Licenciado en Computación",
+    coreLanguages: ["Rust", "C++", "Python", "TypeScript", "JavaScript", "SQL"],
+    askMeAbout: ["High-Performance Computing", "Full Stack Dev", "System Architecture"],
     technologies: {
-        mobileApp: ["Flutter"],
-        frontEnd: {
-            js: ["Vue", "Nuxt", "React", "NextJS"],
-            css: ["vuetify", "bootstrap"]
-        },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["Pyqt","Django","flask"]
+            rust: ["Tokio", "Rocket"],
+            js_ts: ["Node.js", "Express"],
+            python: ["FastAPI", "Django", "Flask"]
         },
-        databases: ["mongoDB", "MySql", "sqlite","IndexedDB"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+        frontEnd: {
+            frameworks: ["React", "Next.js", "Vue", "Nuxt.js"],
+            styles: ["Bootstrap 5", "TailwindCSS"]
+        },
+        cloud_infra: ["AWS (EC2, S3, RDS, Lambda)", "Docker", "Git"],
+        databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB", "SQLite"]
     },
-    architecture: ["SSR", "Progressive web applications", "Single page applications"],
-    currentProject: "Developing custom software for each client",
-} as {
-    code: string[];
-    askMeAbout: string[];
-    technologies: {
-        mobileApp: string[];
-        frontEnd: {
-            [x:string]: string[];
-        };
-        backEnd: {
-            [x:string]: string[];
-        };
-        databases: string[];
-        misc: string[];
-    };
-    architecture: string[];
-    currentProject: string;
+    specialties: [
+        "Real-time Architectures (WebSockets)",
+        "Retrieval-Augmented Generation (RAG Systems)",
+        "Mathematical & Interpolation Algorithmic Tuning"
+    ],
+    featuredProject: "System_Stabilization_Interpolation (Machine Learning & Mathematical Optimization)",
+    currentFocus: "Building ultra-fast, concurrent backend architectures and intelligent data systems."
 };
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
